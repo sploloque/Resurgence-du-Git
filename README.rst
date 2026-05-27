@@ -61,4 +61,4 @@ Xavier Robert (xavier.robert@ird.fr) et Stéphane Lips
 How to cite
 -----------
 
-Robert, X., Lips S., Base de données Topographiques du système karstique du Git (Vercors, 38, France), https://github.com/robertxa/Git, 2026. 
+Robert, X., Lips S., Base de données Topographiques du système karstique du Git (Vercors, 38, France), https://github.com/robertxa/Resurgence-du-Git, 2026. 
