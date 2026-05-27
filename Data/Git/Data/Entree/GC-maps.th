@@ -1,0 +1,54 @@
+encoding  utf-8
+
+# Copyright (C) 2020 Xavier Robert <xavier.robert***@***ird.fr>
+# This work is under the Creative Commons Attribution-ShareAlike-NonCommecial License:
+#	<http://creativecommons.org/licenses/by-nc-sa/4.0/> 
+
+#map MP-GC-plan-tot -title "Galerie Claire - Scialet de l'Aspirateur"
+map MP-GC-plan-tot -title "Galerie Claire"
+#map MP-GC-plan-tot -title "Galerie Claire"
+	SP-GC2024-1
+	break
+	SP-feuilles-1
+	break
+	SP-Mcrottin-1
+	break
+	SP-Crottins-2
+	break
+	SP-Crottins-1
+	break
+	SP-Claire-1
+	break
+	SP-GClaire-1
+	break
+	SP-GClaire-2
+	break
+	SP-GClaire-5
+	break
+	SP-GClaire-3
+	break
+	SP-GClaire-6
+	break
+	SP-GClaire-08_02
+	break
+	SP-GClaire-08_01
+	break
+	SP-GClaire-4
+	break
+	SP-GClaire-8
+	break
+	SP-GClaire-7
+	break
+	SP-GClaire-08_03
+	break
+	SP-GClaire-11
+	break
+	SP-GClaire-10
+	break
+	SP-GClaire-9
+endmap
+
+#map MC-Bruyant-tot -title "Résurgence du Bruyant"
+#	SC-Bruyant-1
+#endmap
+   

@@ -1,0 +1,14 @@
+encoding  utf-8
+
+# Copyright (C) 2025 Xavier Robert <xavier.robert***@***ird.fr>
+# This work is under the Creative Commons Attribution-ShareAlike-NonCommecial License:
+#	<http://creativecommons.org/licenses/by-nc-sa/4.0/> 
+
+map MP-Git-plan-tot -title "Résurgnec du Git"
+	SP-Git-1
+endmap
+
+#map MC-Git-coupe-tot -title "Résurgence du Git"
+#	SC-Git-1
+#endmap
+   

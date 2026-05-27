@@ -1,0 +1,50 @@
+encoding  utf-8
+
+# Copyright (C) 2020 Xavier Robert <xavier.robert***@***ird.fr>
+# This work is under the Creative Commons Attribution-ShareAlike-NonCommecial License:
+#	<http://creativecommons.org/licenses/by-nc-sa/4.0/> 
+ 
+survey GClaire -title "Galerie Claire - Scialet de l'Aspirateur"
+#survey GClaire -title "Galerie Claire"
+
+# Pour importer les différentes données de différents fichiers topos : 
+   input Data/aspi202203.th
+   input Data/aspi20220416.th
+      equate  PTT-R16@aspi20220416  PTTGC72@aspi202203
+   input Data/aspi20220416c.th
+      equate  95@aspi20220416c  95@aspi202203
+      equate  PTTGC46@aspi20220416c  PTTGC46@aspi202203
+      equate  PTTGC57@aspi20220416c  PTTGC57@aspi202203
+   input Data/crottins.th
+      equate 4@crottins 11@aspi202203
+   input Data/crottins2.th
+      equate 46@crottins2 PTTMC0@aspi202203
+   input Data/feuilles.th
+      equate 13@feuilles  PTTGC92@aspi202203
+   input Data/gclaire.th
+      equate 24@gclaire   105@aspi202203
+   # escalade de la cheminée
+   input Data/Aspi2024.th
+      equate PTTGC49@Aspi2024 PTTGC49@aspi202203
+	
+   centerline
+   #   ## Rajout des longueurs explorées, non topo, ou topos perdues
+      station PTTGC72@aspi202203 "+ 30 m exploré non topographié, Cheminée remontante + Départ galerie après E5" continuation explored 30m  
+   endcenterline
+ 
+ 
+##########################################################################################
+## Pour importer les différents fichiers de dessins en plan
+	## Et Pour assembler plusieurs scraps entre eux, il faut utiliser la commande
+	## join scrap1 scrap2 -count n (où n = nombre de galerie à connecter, par défaut n = 1). C'est tout simple !
+
+## Pour le plan
+input Data/aspi202203.th2
+
+## Pour la coupe développée
+#input Data/GC-coupe.th2
+
+## Appel des maps
+input GC-maps.th
+
+endsurvey

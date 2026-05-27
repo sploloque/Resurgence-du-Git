@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VisualTopo>
+	<Version>5.23</Version>
+	<Verification>1</Verification>
+	<Lignes>176</Lignes>
+	<Cavite>
+		<Nom>Git</Nom>
+		<Club>GS Vulcain</Club>
+		<Projection>LT2E</Projection>
+		<Entrees>
+			<Entree X="852.280000" Y="2035.540000" Z="375.000000" Station="0" Ref="1" Ligne="0"/>
+		</Entrees>
+		<Toporobot>0</Toporobot>
+		<Couleur>0,0,0</Couleur>
+	</Cavite>
+	<Mesures>
+		<Param InstrDist="Deca" UnitDir="Degd" InstrPte="Clino" UnitPte="Degd" Declin="-1.1348" SensDir="Dir" SensPte="Dir" SensLar="Dir" DimPt="Arr" Coul="Std" Date="01/01/1994" DeclinAuto="A">
+			<Commentaire>1528 m au lieu de 2105 m =&gt; manque 577 m de développement</Commentaire>
+			<Visee Dep="0" Arr="0" Long="0.00" Az="0.00" Pte="0.00" G="0.00" D="0.00" H="0.00" B="0.00" Ref="1" Suiv="1"/>
+			<Visee Arr="1994.1" Long="7.96" Az="161.82" Pte="3.94" G="2.00" D="2.00" H="2.00" B="2.00" Ref="1" Suiv="3"/>
+			<Visee Arr="1994.2" Long="16.08" Az="66.99" Pte="-18.67" G="2.00" D="2.00" H="2.00" B="2.00" Ref="2" Suiv="4"/>
+			<Visee Arr="1994.3" Long="4.79" Az="179.27" Pte="-44.08" G="2.00" D="2.00" H="2.00" B="2.00" Ref="3" Suiv="5"/>
+			<Visee Arr="1994.4" Long="5.59" Az="116.83" Pte="-4.02" G="2.00" D="2.00" H="2.00" B="2.00" Ref="4" Suiv="6"/>
+			<Visee Arr="1994.5" Long="19.36" Az="101.87" Pte="-26.19" G="2.00" D="2.00" H="2.00" B="2.00" Ref="5" Suiv="7"/>
+			<Visee Arr="1994.6" Long="8.01" Az="90.00" Pte="-1.10" G="2.00" D="2.00" H="2.00" B="2.00" Ref="6" Suiv="8"/>
+			<Visee Arr="1994.7" Long="19.42" Az="64.39" Pte="-23.89" G="2.00" D="2.00" H="2.00" B="2.00" Ref="7" Suiv="9"/>
+			<Visee Arr="1994.8" Long="21.77" Az="55.81" Pte="-13.12" G="2.00" D="2.00" H="2.00" B="2.00" Ref="8" Suiv="10"/>
+			<Visee Arr="1994.9" Long="6.75" Az="51.59" Pte="-18.74" G="2.00" D="2.00" H="2.00" B="2.00" Ref="9" Suiv="11"/>
+			<Visee Arr="1994.10" Long="21.83" Az="85.77" Pte="9.68" G="2.00" D="2.00" H="2.00" B="2.00" Ref="10" Suiv="12"/>
+			<Visee Arr="1994.11" Long="34.42" Az="160.70" Pte="14.15" G="2.00" D="2.00" H="2.00" B="2.00" Ref="11" Suiv="13"/>
+			<Visee Arr="1994.12" Long="20.28" Az="175.86" Pte="5.83" G="2.00" D="2.00" H="2.00" B="2.00" Ref="12" Suiv="14"/>
+			<Visee Arr="1994.13" Long="13.13" Az="209.59" Pte="4.29" G="2.00" D="2.00" H="2.00" B="2.00" Ref="13" Suiv="15"/>
+			<Visee Arr="1994.14" Long="69.76" Az="197.93" Pte="11.12" G="2.00" D="2.00" H="2.00" B="2.00" Ref="14" Suiv="16"/>
+			<Visee Arr="1994.15" Long="15.12" Az="190.60" Pte="29.25" G="2.00" D="2.00" H="2.00" B="2.00" Ref="15" Suiv="17"/>
+			<Visee Arr="1994.16" Long="34.30" Az="110.64" Pte="4.94" G="2.00" D="2.00" H="2.00" B="2.00" Ref="16" Suiv="18"/>
+			<Visee Arr="1994.17" Long="20.09" Az="185.83" Pte="0.06" G="2.00" D="2.00" H="2.00" B="2.00" Ref="17" Suiv="19"/>
+			<Visee Arr="1994.18" Long="27.74" Az="102.69" Pte="-2.04" G="2.00" D="2.00" H="2.00" B="2.00" Ref="18" Suiv="20"/>
+			<Visee Arr="1994.19" Long="22.97" Az="145.56" Pte="2.49" G="2.00" D="2.00" H="2.00" B="2.00" Ref="19" Suiv="21"/>
+			<Visee Arr="1994.20" Long="26.26" Az="83.34" Pte="2.17" G="2.00" D="2.00" H="2.00" B="2.00" Ref="20" Suiv="22"/>
+			<Visee Arr="1994.21" Long="10.36" Az="16.14" Pte="-59.64" G="2.00" D="2.00" H="2.00" B="2.00" Ref="21" Suiv="23"/>
+			<Visee Arr="1994.22" Long="8.36" Az="20.39" Pte="-28.50" G="2.00" D="2.00" H="2.00" B="2.00" Inv="I" Ref="22" Suiv="24"/>
+			<Visee Arr="1994.23" Long="27.14" Az="21.67" Pte="-4.21" G="2.00" D="2.00" H="2.00" B="2.00" Ref="23" Suiv="25"/>
+			<Visee Arr="1994.24" Long="74.99" Az="29.70" Pte="-5.28" G="2.00" D="2.00" H="2.00" B="2.00" Ref="24"/>
+			<Visee Dep="1994.21" Arr="1994.25" Long="4.64" Az="96.71" Pte="12.54" G="2.00" D="2.00" H="2.00" B="2.00" Ref="22" Suiv="27"/>
+			<Visee Arr="1994.26" Long="18.59" Az="117.11" Pte="0.07" G="2.00" D="2.00" H="2.00" B="2.00" Ref="26" Suiv="28"/>
+			<Visee Arr="1994.27" Long="14.19" Az="205.28" Pte="7.85" G="2.00" D="2.00" H="2.00" B="2.00" Ref="27" Suiv="29"/>
+			<Visee Arr="1994.28" Long="6.27" Az="206.86" Pte="28.84" G="2.00" D="2.00" H="2.00" B="2.00" Ref="28" Suiv="30"/>
+			<Visee Arr="1994.29" Long="21.94" Az="156.90" Pte="-7.95" G="2.00" D="2.00" H="2.00" B="2.00" Ref="29" Suiv="31"/>
+			<Visee Arr="1994.30" Long="8.65" Az="169.32" Pte="53.73" G="2.00" D="2.00" H="2.00" B="2.00" Ref="30" Suiv="32"/>
+			<Visee Arr="1994.31" Long="11.09" Az="172.16" Pte="-0.05" G="2.00" D="2.00" H="2.00" B="2.00" Ref="31" Suiv="33"/>
+			<Visee Arr="1994.32" Long="58.90" Az="196.25" Pte="1.92" G="2.00" D="2.00" H="2.00" B="2.00" Ref="32" Suiv="34"/>
+			<Visee Arr="1994.33" Long="6.42" Az="180.00" Pte="38.41" G="2.00" D="2.00" H="2.00" B="2.00" Ref="33" Suiv="35"/>
+			<Visee Arr="1994.34" Long="15.91" Az="234.21" Pte="14.64" G="2.00" D="2.00" H="2.00" B="2.00" Ref="34" Suiv="36"/>
+			<Visee Arr="1994.35" Long="17.03" Az="175.24" Pte="3.13" G="2.00" D="2.00" H="2.00" B="2.00" Ref="35" Suiv="37"/>
+			<Visee Arr="1994.36" Long="23.79" Az="198.38" Pte="-4.60" G="2.00" D="2.00" H="2.00" B="2.00" Ref="36" Suiv="38"/>
+			<Visee Arr="1994.37" Long="14.93" Az="231.99" Pte="-11.77" G="2.00" D="2.00" H="2.00" B="2.00" Ref="37" Suiv="39"/>
+			<Visee Arr="1994.38" Long="48.40" Az="10.75" Pte="-4.74" G="2.00" D="2.00" H="2.00" B="2.00" Inv="I" Ref="38"/>
+			<Visee Dep="1994.37" Arr="1994.39" Long="10.61" Az="171.64" Pte="16.67" G="2.00" D="2.00" H="2.00" B="2.00" Ref="38" Suiv="41"/>
+			<Visee Arr="1994.40" Long="30.64" Az="200.98" Pte="1.80" G="2.00" D="2.00" H="2.00" B="2.00" Ref="40" Suiv="42"/>
+			<Visee Arr="1994.41" Long="11.71" Az="161.52" Pte="19.74" G="2.00" D="2.00" H="2.00" B="2.00" Ref="41" Suiv="43"/>
+			<Visee Arr="1994.42" Long="10.08" Az="159.58" Pte="5.54" G="2.00" D="2.00" H="2.00" B="2.00" Ref="42" Suiv="44"/>
+			<Visee Arr="1994.43" Long="8.51" Az="197.18" Pte="6.80" G="2.00" D="2.00" H="2.00" B="2.00" Ref="43" Suiv="45"/>
+			<Visee Arr="1994.44" Long="6.56" Az="98.13" Pte="-0.38" G="2.00" D="2.00" H="2.00" B="2.00" Ref="44" Suiv="46"/>
+			<Visee Arr="1994.45" Long="5.34" Az="159.80" Pte="35.05" G="2.00" D="2.00" H="2.00" B="2.00" Ref="45" Suiv="47"/>
+			<Visee Arr="1994.46" Long="12.34" Az="191.84" Pte="4.48" G="2.00" D="2.00" H="2.00" B="2.00" Ref="46" Suiv="48"/>
+			<Visee Arr="1994.47" Long="14.29" Az="169.75" Pte="3.78" G="2.00" D="2.00" H="2.00" B="2.00" Ref="47" Suiv="49"/>
+			<Visee Arr="1994.48" Long="14.33" Az="233.77" Pte="0.18" G="2.00" D="2.00" H="2.00" B="2.00" Ref="48" Suiv="50"/>
+			<Visee Arr="1994.49" Long="14.28" Az="189.90" Pte="4.05" G="2.00" D="2.00" H="2.00" B="2.00" Ref="49" Suiv="51"/>
+			<Visee Arr="1994.50" Long="7.60" Az="203.17" Pte="31.57" G="2.00" D="2.00" H="2.00" B="2.00" Ref="50" Suiv="52"/>
+			<Visee Arr="1994.51" Long="11.41" Az="198.59" Pte="14.83" G="2.00" D="2.00" H="2.00" B="2.00" Ref="51" Suiv="53"/>
+			<Visee Arr="1994.52" Long="21.72" Az="170.51" Pte="10.70" G="2.00" D="2.00" H="2.00" B="2.00" Ref="52" Suiv="54"/>
+			<Visee Arr="1994.53" Long="17.51" Az="129.16" Pte="6.39" G="2.00" D="2.00" H="2.00" B="2.00" Ref="53" Suiv="55"/>
+			<Visee Arr="1994.54" Long="12.31" Az="26.80" Pte="1.36" G="2.00" D="2.00" H="2.00" B="2.00" Ref="54" Suiv="56"/>
+			<Visee Arr="1994.55" Long="12.82" Az="120.43" Pte="3.20" G="2.00" D="2.00" H="2.00" B="2.00" Ref="55" Suiv="57"/>
+			<Visee Arr="1994.56" Long="8.21" Az="207.16" Pte="-46.51" G="2.00" D="2.00" H="2.00" B="2.00" Inv="I" Ref="56" Suiv="58"/>
+			<Visee Arr="1994.57" Long="16.08" Az="239.26" Pte="-25.56" G="2.00" D="2.00" H="2.00" B="2.00" Ref="57" Suiv="59"/>
+			<Visee Arr="1994.58" Long="20.16" Az="262.46" Pte="-0.03" G="2.00" D="2.00" H="2.00" B="2.00" Ref="58" Suiv="60"/>
+			<Visee Arr="1994.59" Long="45.64" Az="350.51" Pte="-1.24" G="2.00" D="2.00" H="2.00" B="2.00" Ref="59"/>
+			<Visee Dep="1994.55" Arr="1994.60" Long="4.94" Az="49.94" Pte="23.78" G="2.00" D="2.00" H="2.00" B="2.00" Ref="56" Suiv="62"/>
+			<Visee Arr="1994.61" Long="7.30" Az="48.28" Pte="42.67" G="2.00" D="2.00" H="2.00" B="2.00" Ref="61" Suiv="63"/>
+			<Visee Arr="1994.62" Long="12.91" Az="118.36" Pte="13.65" G="2.00" D="2.00" H="2.00" B="2.00" Ref="62" Suiv="64"/>
+			<Visee Arr="1994.63" Long="9.20" Az="159.53" Pte="39.84" G="2.00" D="2.00" H="2.00" B="2.00" Ref="63" Suiv="65"/>
+			<Visee Arr="1994.64" Long="14.90" Az="94.32" Pte="19.49" G="2.00" D="2.00" H="2.00" B="2.00" Ref="64" Suiv="66"/>
+			<Visee Arr="1994.65" Long="9.00" Az="145.96" Pte="6.43" G="2.00" D="2.00" H="2.00" B="2.00" Ref="65" Suiv="67"/>
+			<Visee Arr="1994.66" Long="9.00" Az="180.00" Pte="0.14" G="2.00" D="2.00" H="2.00" B="2.00" Ref="66" Suiv="68"/>
+			<Visee Arr="1994.67" Long="13.68" Az="120.69" Pte="70.05" G="2.00" D="2.00" H="2.00" B="2.00" Ref="67" Suiv="69"/>
+			<Visee Arr="1994.68" Long="9.50" Az="180.00" Pte="18.57" G="2.00" D="2.00" H="2.00" B="2.00" Ref="68" Suiv="70"/>
+			<Visee Arr="1994.69" Long="12.20" Az="185.19" Pte="16.59" G="2.00" D="2.00" H="2.00" B="2.00" Ref="69" Suiv="71"/>
+			<Visee Arr="1994.70" Long="4.33" Az="145.12" Pte="34.89" G="2.00" D="2.00" H="2.00" B="2.00" Ref="70" Suiv="72"/>
+			<Visee Arr="1994.71" Long="9.06" Az="180.00" Pte="6.39" G="2.00" D="2.00" H="2.00" B="2.00" Ref="71" Suiv="73"/>
+			<Visee Arr="1994.72" Long="9.22" Az="192.57" Pte="0.00" G="2.00" D="2.00" H="2.00" B="2.00" Ref="72" Suiv="74"/>
+			<Visee Arr="1994.73" Long="12.63" Az="124.08" Pte="30.66" G="2.00" D="2.00" H="2.00" B="2.00" Ref="73" Suiv="75"/>
+			<Visee Arr="1994.74" Long="13.61" Az="162.80" Pte="4.15" G="2.00" D="2.00" H="2.00" B="2.00" Ref="74" Suiv="76"/>
+			<Visee Arr="1994.75" Long="8.70" Az="135.31" Pte="10.01" G="2.00" D="2.00" H="2.00" B="2.00" Ref="75" Suiv="77"/>
+			<Visee Arr="1994.76" Long="7.24" Az="70.63" Pte="28.16" G="2.00" D="2.00" H="2.00" B="2.00" Ref="76" Suiv="78"/>
+			<Visee Arr="1994.77" Long="7.86" Az="81.16" Pte="39.84" G="2.00" D="2.00" H="2.00" B="2.00" Ref="77" Suiv="79"/>
+			<Visee Arr="1994.78" Long="6.38" Az="134.46" Pte="27.33" G="2.00" D="2.00" H="2.00" B="2.00" Ref="78" Suiv="80"/>
+			<Visee Arr="1994.79" Long="14.62" Az="164.20" Pte="4.05" G="2.00" D="2.00" H="2.00" B="2.00" Ref="79" Suiv="81"/>
+			<Visee Arr="1994.80" Long="8.05" Az="83.39" Pte="-0.09" G="2.00" D="2.00" H="2.00" B="2.00" Ref="80" Suiv="82"/>
+			<Visee Arr="1994.81" Long="12.19" Az="145.42" Pte="54.52" G="2.00" D="2.00" H="2.00" B="2.00" Ref="81" Suiv="83"/>
+			<Visee Arr="1994.82" Long="17.82" Az="183.67" Pte="24.75" G="2.00" D="2.00" H="2.00" B="2.00" Ref="82" Suiv="84"/>
+			<Visee Arr="1994.83" Long="16.44" Az="123.30" Pte="28.41" G="2.00" D="2.00" H="2.00" B="2.00" Ref="83" Suiv="85"/>
+			<Visee Arr="1994.84" Long="7.34" Az="226.48" Pte="54.82" G="2.00" D="2.00" H="2.00" B="2.00" Ref="84" Suiv="86"/>
+			<Visee Arr="1994.85" Long="13.11" Az="212.01" Pte="0.00" G="2.00" D="2.00" H="2.00" B="2.00" Ref="85"/>
+			<Visee Dep="1994.82" Arr="1994.86" Long="30.32" Az="189.42" Pte="-0.02" G="2.00" D="2.00" H="2.00" B="2.00" Ref="83" Suiv="88"/>
+			<Visee Arr="1994.87" Long="17.03" Az="176.65" Pte="-4.84" G="2.00" D="2.00" H="2.00" B="2.00" Ref="87" Suiv="89"/>
+			<Visee Arr="1994.88" Long="20.64" Az="182.95" Pte="-12.51" G="2.00" D="2.00" H="2.00" B="2.00" Ref="88" Suiv="90"/>
+			<Visee Arr="1994.89" Long="24.88" Az="55.02" Pte="10.38" G="2.00" D="2.00" H="2.00" B="2.00" Ref="89" Suiv="91"/>
+			<Visee Arr="1994.90" Long="29.12" Az="74.17" Pte="0.91" G="2.00" D="2.00" H="2.00" B="2.00" Ref="90" Suiv="92"/>
+			<Visee Arr="1994.91" Long="10.32" Az="171.07" Pte="24.61" G="2.00" D="2.00" H="2.00" B="2.00" Ref="91" Suiv="93"/>
+			<Visee Arr="62" Long="5.20" Az="0.00" Pte="-90.00" G="2.00" D="2.00" H="2.00" B="2.00" Ref="92" Suiv="157"/>
+		</Param>
+		<Param InstrDist="Topof" Etal="0.500" UnitDir="Gra" InstrPte="Vulc" UnitPte="Gra" Declin="1.5110" SensDir="Dir" SensPte="Dir" SensLar="Dir" DimPt="Arr" Coul="Std" Date="01/01/2019" DeclinAuto="A">
+			<Visee Dep="2019.0" Arr="2019.0" DepTop="0.0" ArrTop="0.0" Az="0.00" Pte="0.00" G="0.60" D="0.60" H="0.10" B="0.10" Ref="96"/>
+			<Visee Arr="1" DepTop="28375.0" ArrTop="29008.0" Az="105.00" Pte="100.00" G="0.70" D="0.70" H="1.20" B="0.10" Ref="97" Suiv="95" InvV1V2="1"/>
+			<Visee Arr="2" ArrTop="29926.0" Az="185.00" Pte="100.00" G="0.60" D="0.60" H="1.20" B="0.20" Ref="98" Suiv="96" InvV1V2="1"/>
+			<Visee Arr="3" ArrTop="31090.0" Az="109.00" Pte="91.00" G="0.50" D="0.50" H="0.50" B="1.20" Ref="99" Suiv="97" InvV1V2="1"/>
+			<Visee Arr="4" ArrTop="32187.0" Az="57.00" Pte="100.00" G="0.50" D="0.50" H="0.50" B="1.60" Ref="100" Suiv="98" InvV1V2="1"/>
+			<Visee Arr="5" ArrTop="33221.0" Az="82.00" Pte="102.00" G="0.50" D="0.50" H="1.00" B="1.50" Ref="101" Suiv="99" InvV1V2="1"/>
+			<Visee Arr="6" ArrTop="33715.0" Az="32.00" Pte="106.00" G="0.50" D="0.50" H="1.50" B="1.50" Ref="102" Suiv="100" InvV1V2="1"/>
+			<Visee Arr="7" ArrTop="34318.0" Az="140.00" Pte="106.00" G="0.50" D="0.50" H="1.70" B="1.30" Ref="103" Suiv="101" InvV1V2="1"/>
+			<Visee Arr="8" ArrTop="35166.0" Az="96.00" Pte="106.00" G="0.50" D="0.50" H="1.20" B="1.40" Ref="104" Suiv="102" InvV1V2="1"/>
+			<Visee Arr="9" ArrTop="35817.0" Az="61.00" Pte="100.00" G="0.80" D="0.40" H="1.20" B="1.80" Ref="105" Suiv="103" InvV1V2="1"/>
+			<Visee Arr="10" ArrTop="36349.0" Az="16.00" Pte="134.00" G="1.20" D="0.40" H="2.50" B="0.50" Ref="106" Suiv="104" InvV1V2="1"/>
+			<Visee Arr="11" ArrTop="38133.0" Az="86.00" Pte="100.00" G="0.60" D="0.60" H="0.60" B="0.60" Ref="107" Suiv="105" InvV1V2="1"/>
+			<Visee Arr="12" ArrTop="39310.0" Az="54.00" Pte="100.00" G="0.50" D="0.50" H="0.50" B="1.00" Ref="108" Suiv="106" InvV1V2="1"/>
+			<Visee Arr="13" ArrTop="39948.0" Az="121.00" Pte="102.00" G="0.60" D="0.80" H="0.60" B="0.60" Ref="109" Suiv="107" InvV1V2="1"/>
+			<Visee Arr="14" ArrTop="40326.0" Az="6.00" Pte="101.00" G="4.00" D="2.00" H="4.00" B="1.50" Ref="149" Suiv="108" InvV1V2="1"/>
+			<Visee Arr="15" ArrTop="42294.0" Az="91.00" Pte="98.00" G="1.00" D="4.00" H="6.00" B="1.50" Ref="149" Suiv="111"/>
+			<Visee Arr="16" ArrTop="43470.0" Az="220.00" Pte="100.00" G="2.00" D="1.00" H="6.00" B="1.50" Ref="110" Suiv="112"/>
+			<Visee Arr="17" ArrTop="44649.0" Az="83.00" Pte="100.00" G="1.20" D="0.00" H="6.00" B="2.00" Ref="111" Suiv="113"/>
+			<Visee Arr="18" ArrTop="45450.0" Az="133.00" Pte="100.00" G="0.00" D="1.50" H="6.00" B="2.00" Ref="112" Suiv="114"/>
+			<Visee Arr="19" ArrTop="48962.0" Az="216.00" Pte="96.00" G="1.50" D="0.50" H="8.00" B="1.50" Ref="113" Suiv="115"/>
+			<Visee Arr="20" ArrTop="49069.0" Az="98.00" Pte="100.00" G="0.50" D="0.50" H="8.00" B="2.00" Ref="114" Suiv="116"/>
+			<Visee Arr="21" ArrTop="49706.0" Az="96.00" Pte="70.00" G="1.50" D="1.50" H="5.00" B="3.00" Ref="115" Suiv="117"/>
+			<Visee Arr="22" ArrTop="50834.0" Az="219.00" Pte="95.00" G="0.00" D="1.50" H="5.00" B="1.50" Ref="116" Suiv="118"/>
+			<Visee Arr="23" ArrTop="51431.0" Az="235.00" Pte="112.00" G="0.40" D="0.40" H="0.20" B="1.20" Ref="117" Suiv="119"/>
+			<Visee Arr="24" ArrTop="52065.0" Az="209.00" Pte="100.00" G="0.20" D="0.60" H="4.00" B="3.00" Ref="118" Suiv="120"/>
+			<Visee Arr="25" ArrTop="52581.0" Az="254.00" Pte="75.00" G="0.60" D="0.60" H="3.00" B="2.00" Ref="119" Suiv="121"/>
+			<Visee Arr="26" ArrTop="53623.0" Az="215.00" Pte="78.00" G="0.60" D="0.60" H="5.00" B="4.00" Ref="120" Suiv="122"/>
+			<Visee Arr="27" ArrTop="54534..0" Az="222.00" Pte="120.00" G="1.00" D="0.20" H="5.00" B="2.00" Ref="121" Suiv="123"/>
+			<Visee Arr="28" ArrTop="56930.0" Az="220.00" Pte="100.00" G="0.40" D="1.20" H="5.00" B="1.50" Ref="122" Suiv="124"/>
+			<Visee Arr="29" ArrTop="57400.0" Az="272.00" Pte="89.00" G="0.40" D="0.40" H="6.00" B="1.20" Ref="123" Suiv="125"/>
+			<Visee Arr="30" ArrTop="58111.0" Az="203.00" Pte="71.00" G="1.50" D="1.50" H="3.00" B="1.50" Ref="124" Suiv="126"/>
+			<Visee Arr="31" ArrTop="60227.0" Az="174.00" Pte="93.00" G="3.00" D="1.50" H="7.00" B="1.50" Ref="125" Suiv="127"/>
+			<Visee Arr="32" ArrTop="63322.0" Az="69.00" Pte="78.00" G="3.00" D="3.00" H="4.00" B="1.50" Ref="126" Suiv="128"/>
+			<Visee Arr="33" ArrTop="66561.0" Az="112.00" Pte="108.00" G="2.00" D="2.00" H="5.00" B="1.20" Ref="127" Suiv="129"/>
+			<Visee Arr="34" ArrTop="69615.0" Az="91.00" Pte="94.00" G="1.00" D="1.00" H="4.00" B="2.00" Ref="128" Suiv="130"/>
+			<Visee Arr="35" ArrTop="72561.0" Az="89.00" Pte="104.00" G="1.40" D="0.00" H="4.00" B="1.50" Ref="129" Suiv="131"/>
+			<Visee Arr="36" DepTop="69525.0" ArrTop="72561.0" Az="64.00" Pte="106.00" G="4.00" D="2.00" H="6.00" B="1.50" Ref="130" Suiv="132"/>
+			<Visee Arr="37" DepTop="69370.0" ArrTop="71133.0" Az="67.00" Pte="103.00" G="2.00" D="6.00" H="10.00" B="1.50" Ref="131" Suiv="133"/>
+			<Visee Arr="38" ArrTop="73599.0" Az="137.00" Pte="60.00" G="0.60" D="0.60" H="7.00" B="1.50" Ref="132" Suiv="134"/>
+			<Visee Arr="39" ArrTop="74517.0" Az="133.00" Pte="91.00" G="0.60" D="0.60" H="7.00" B="1.50" Ref="133" Suiv="135"/>
+			<Visee Arr="40" ArrTop="75731.0" Az="78.00" Pte="90.00" G="0.80" D="1.50" H="6.00" B="1.50" Ref="134" Suiv="136"/>
+			<Visee Arr="41" ArrTop="77883.0" Az="132.00" Pte="60.00" G="1.50" D="1.50" H="4.00" B="2.00" Ref="135" Suiv="137"/>
+			<Visee Arr="42" ArrTop="78855.0" Az="140.00" Pte="85.00" G="0.50" D="1.50" H="2.50" B="0.50" Ref="136" Suiv="138"/>
+			<Visee Arr="43" ArrTop="79880.0" Az="42.00" Pte="70.00" G="0.20" D="1.50" H="1.50" B="0.13" Ref="137" Suiv="139"/>
+			<Visee Arr="44" ArrTop="81392.0" Az="320.00" Pte="70.00" G="0.80" D="2.50" H="1.00" B="1.50" Inv="I" Ref="138" Suiv="140"/>
+			<Visee Arr="45" DepTop="82250.0" ArrTop="83179.0" Az="295.00" Pte="96.00" G="0.50" D="1.50" H="1.20" B="0.30" Ref="139" Suiv="141"/>
+			<Visee Arr="46" ArrTop="84432.0" Az="375.00" Pte="100.00" G="0.60" D="0.60" H="5.00" B="10.00" Ref="140"/>
+			<Visee Dep="43" Arr="47" ArrTop="85615.0" Az="85.00" Pte="100.00" G="2.50" D="0.00" H="1.50" B="6.00" Ref="138" Suiv="143"/>
+			<Visee Arr="48" ArrTop="87088.0" Az="0.00" Pte="200.00" G="1.00" D="1.00" H="6.00" B="1.50" Ref="142" Suiv="144"/>
+			<Visee Arr="49" DepTop="87290.0" ArrTop="88800.0" Az="165.00" Pte="115.00" G="4.00" D="2.00" H="5.00" B="1.50" Ref="143" Suiv="145"/>
+			<Visee Arr="50" ArrTop="89577.0" Az="5.00" Pte="85.00" G="2.00" D="3.00" H="5.00" B="1.50" Ref="144" Suiv="146"/>
+			<Visee Arr="51" ArrTop="90190.0" Az="55.00" Pte="105.00" G="1.50" D="4.00" H="4.00" B="1.50" Ref="145" Suiv="147"/>
+			<Visee Arr="52" ArrTop="92325.0" Az="100.00" Pte="90.00" G="3.00" D="1.00" H="1.50" B="1.50" Ref="146" Suiv="148"/>
+			<Visee Arr="53" ArrTop="96582.0" Az="375.00" Pte="111.00" G="2.50" D="1.00" H="3.00" B="1.50" Ref="147" Suiv="159"/>
+			<Visee Dep="14" Arr="54" DepTop="93625.0" ArrTop="94500.0" Az="365.00" Pte="113.00" G="1.00" D="1.00" H="4.00" B="1.50" Ref="150" Suiv="110" InvV1V2="1"/>
+			<Visee Arr="55" ArrTop="95671.0" Az="370.00" Pte="105.00" G="0.60" D="0.60" H="5.00" B="6.00" Ref="151" Suiv="149" InvV1V2="1"/>
+			<Visee Arr="56" ArrTop="96336.0" Az="0.00" Pte="200.00" G="3.00" D="1.00" H="10.00" B="3.00" Ref="152" Suiv="150" InvV1V2="1"/>
+			<Visee Arr="57" ArrTop="96900.0" Az="345.00" Pte="132.00" G="0.60" D="0.60" H="1.00" B="1.00" Ref="153" Suiv="151" InvV1V2="1"/>
+			<Visee Arr="58" ArrTop="97520.0" Az="380.00" Pte="110.00" G="0.40" D="0.40" H="1.50" B="1.30" Ref="154" Suiv="152" InvV1V2="1"/>
+			<Visee Arr="59" ArrTop="98570.0" Az="0.00" Pte="110.00" G="0.50" D="0.50" H="6.00" B="1.50" Ref="156" Suiv="153" InvV1V2="1"/>
+			<Visee Arr="60" ArrTop="100213.0" Az="0.00" Pte="30.00" G="0.60" D="0.60" H="1.00" B="1.00" Inv="I" Ref="156"/>
+			<Visee Dep="59" Arr="61" ArrTop="101030.0" Az="390.00" Pte="168.00" G="0.50" D="0.50" H="2.00" B="1.50" Ref="157" Suiv="155" InvV1V2="1"/>
+			<Visee Arr="62" ArrTop="102370.0" Az="0.00" Pte="200.00" G="2.00" D="1.50" H="10.00" B="1.50" Ref="93" Suiv="156" InvV1V2="1"/>
+		</Param>
+		<Param InstrDist="Deca" UnitDir="Degd" InstrPte="Clino" UnitPte="Degd" Declin="2.5119" SensDir="Dir" SensPte="Dir" SensLar="Dir" DimPt="Inc" Coul="Std" Date="19/10/2025" DeclinAuto="M">
+			<Visee Dep="53" Arr="2025.11" Long="90.00" Az="80.00" Pte="0.00" Ref="148" Suiv="172"/>
+		</Param>
+		<Param InstrDist="Deca" UnitDir="Degd" InstrPte="Clino" UnitPte="Degd" Declin="2.5119" SensDir="Dir" SensPte="Dir" SensLar="Dir" DimPt="Inc" Coul="Std" Date="01/01/2025" DeclinAuto="M">
+			<Visee Dep="2025.0" Arr="2025.0" Long="0.00" Az="0.00" Pte="0.00" G="0.00" D="1.00" H="3.00" B="0.00" Ref="162">
+				<Commentaire>Fil S4</Commentaire>
+			</Visee>
+			<Visee Arr="2025.1" Long="2.08" Az="202.50" Pte="2.00" G="0.30" D="0.30" H="3.00" B="0.00" Ref="163" Suiv="161" InvV1V2="1"/>
+			<Visee Arr="2025.2" Long="9.56" Az="295.80" Pte="1.00" G="1.40" D="2.40" H="2.20" B="0.00" Ref="164" Suiv="162" InvV1V2="1"/>
+			<Visee Arr="2025.3" Long="10.10" Az="270.10" Pte="30.00" G="0.60" D="1.20" H="0.00" B="1.40" Ref="165" Suiv="163" InvV1V2="1"/>
+			<Visee Arr="2025.4" Long="8.05" Az="333.40" Pte="-7.00" G="0.25" D="0.60" H="0.88" B="0.50" Ref="166" Suiv="164" InvV1V2="1"/>
+			<Visee Arr="2025.5" Long="14.72" Az="282.50" Pte="-1.00" G="0.70" D="0.30" H="5.45" B="2.00" Ref="167" Suiv="165" InvV1V2="1"/>
+			<Visee Arr="2025.6" Long="7.12" Az="293.00" Pte="-2.00" G="0.00" D="3.00" H="2.50" B="1.00" Ref="168" Suiv="166" InvV1V2="1"/>
+			<Visee Arr="2025.7" Long="7.83" Az="305.90" Pte="-4.00" G="2.00" D="1.50" H="2.10" B="2.00" Ref="169" Suiv="167" InvV1V2="1"/>
+			<Visee Arr="2025.8" Long="8.90" Az="246.70" Pte="-6.00" G="0.00" D="2.20" H="2.20" B="2.15" Ref="170" Suiv="168" InvV1V2="1"/>
+			<Visee Arr="2025.9" Long="9.45" Az="319.00" Pte="-15.00" G="1.60" D="0.00" H="6.00" B="3.40" Ref="171" Suiv="169" InvV1V2="1"/>
+			<Visee Arr="2025.10" Long="21.72" Az="254.50" Pte="1.00" G="8.90" D="1.21" H="10.50" B="2.30" Ref="172" Suiv="170" InvV1V2="1"/>
+			<Visee Arr="2025.11" Long="12.50" Az="261.10" Pte="-36.00" G="2.00" D="1.00" H="6.00" B="0.00" Ref="159" Suiv="171" InvV1V2="1">
+				<Commentaire>Vasque S3</Commentaire>
+			</Visee>
+			<Visee Dep="2025.3" Arr="2025.12" Long="8.54" Az="311.20" Pte="13.00" G="1.00" D="1.00" H="2.00" B="1.00" Inv="I" Ref="165" Suiv="174"/>
+			<Visee Arr="2025.13" Long="4.74" Az="304.70" Pte="-26.00" G="1.00" D="1.00" H="3.80" B="2.50" Ref="173" Suiv="175"/>
+			<Visee Arr="2025.14" Long="6.10" Az="288.60" Pte="-3.00" G="0.70" D="0.30" H="5.45" B="2.00" Ref="174"/>
+		</Param>
+	</Mesures>
+	<Configuration>
+		<Application Position="2,3,-1,-1,-1,-1,-1492,52,-467,577">
+			<Toolbar>1</Toolbar>
+			<Statusbar>1</Statusbar>
+			<Commentaires>1</Commentaires>
+		</Application>
+		<Calcul Position="2,3,-1,-1,-8,-31,0,0,901,284">
+			<Entree0>1</Entree0>
+			<Bissectrices>1</Bissectrices>
+			<Perpendiculaires>0</Perpendiculaires>
+			<Hauteurs>1</Hauteurs>
+			<Boucles>0</Boucles>
+			<Controles>1</Controles>
+			<Nord>2</Nord>
+			<Commentaires>0</Commentaires>
+			<Calcul>0</Calcul>
+			<Active>1</Active>
+		</Calcul>
+		<ExportDxf>
+			<Topo>0</Topo>
+			<Equidistance>100</Equidistance>
+			<Theta>0</Theta>
+			<Phi>0</Phi>
+			<Cheminement Couleur="1">1</Cheminement>
+			<Points Couleur="6">1</Points>
+			<Stations Couleur="7">1</Stations>
+			<Largeurs Couleur="4">1</Largeurs>
+			<Hauteurs Couleur="4">0</Hauteurs>
+			<ContoursLargeurs Couleur="3">0</ContoursLargeurs>
+			<ContoursHauteurs Couleur="3">0</ContoursHauteurs>
+			<Profondeurs Couleur="2">0</Profondeurs>
+			<Echelle Couleur="7">1</Echelle>
+			<Quadrillage Couleur="9">0</Quadrillage>
+			<Radiales Couleur="9">1</Radiales>
+			<Contours3D Couleur="3">0</Contours3D>
+		</ExportDxf>
+		<ExportSvg>
+			<Topo>0</Topo>
+			<Equidistance>100</Equidistance>
+			<Theta>0</Theta>
+			<Phi>0</Phi>
+			<Cheminement Couleur="165,42,0">1</Cheminement>
+			<Points Couleur="127,127,127">1</Points>
+			<Stations Couleur="0,0,255">1</Stations>
+			<Largeurs Couleur="0,147,0">1</Largeurs>
+			<Hauteurs Couleur="0,147,0">0</Hauteurs>
+			<ContoursLargeurs Couleur="0,0,139">0</ContoursLargeurs>
+			<ContoursHauteurs Couleur="0,0,139">0</ContoursHauteurs>
+			<Profondeurs Couleur="255,0,0">1</Profondeurs>
+			<Echelle Couleur="0,0,0">1</Echelle>
+			<Quadrillage Couleur="127,127,127">0</Quadrillage>
+			<Radiales Couleur="60,179,113">1</Radiales>
+			<Remplissage Couleur="255,173,91">0</Remplissage>
+			<Fond Couleur="192,192,192">0</Fond>
+			<Contours3D Couleur="0,0,139">0</Contours3D>
+		</ExportSvg>
+		<ExportKml>
+			<TypeCouleur>0</TypeCouleur>
+			<TypeKml>1</TypeKml>
+			<Altitudes>0</Altitudes>
+		</ExportKml>
+		<ExportShp>
+			<Coordonnees>0</Coordonnees>
+			<TypeFichier>0</TypeFichier>
+			<Forme3D>0</Forme3D>
+		</ExportShp>
+		<ExportGcp>
+			<TypeCouleur>0</TypeCouleur>
+		</ExportGcp>
+		<Colonnes>
+			<Départ>88</Départ>
+			<Arrivée>88</Arrivée>
+			<DepTopofil>72</DepTopofil>
+			<ArrTopofil>72</ArrTopofil>
+			<Longueur>72</Longueur>
+			<Azimut>72</Azimut>
+			<Pente>72</Pente>
+			<Gauche>72</Gauche>
+			<Droite>72</Droite>
+			<Haut>72</Haut>
+			<Bas>72</Bas>
+			<Inverse>16</Inverse>
+			<Exclusion>24</Exclusion>
+			<Detail>16</Detail>
+			<Section>16</Section>
+			<ComPhot>32</ComPhot>
+			<Separ1>3</Separ1>
+			<X>72</X>
+			<Y>72</Y>
+			<Z>72</Z>
+			<LDev>72</LDev>
+			<Dist>72</Dist>
+			<Separ2>3</Separ2>
+			<Commentaire>0</Commentaire>
+			<Photo>0</Photo>
+		</Colonnes>
+	</Configuration>
+</VisualTopo>

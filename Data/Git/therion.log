@@ -1,0 +1,226 @@
+therion 6.4.0+dev (compiled on 2026-05-26)
+  - using Proj 9.8.1, compiled against 9.8.1
+initialization file: /Users/robertxa/.therion/therion.ini
+reading ... done
+checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
+checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
+configuration file: Git.thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+output coordinate system: EPSG:27572
+meridian convergence (deg): -2.34
+geomag declinations (deg):
+  1994.1.1  -1.23
+  1995.1.1  -1.126
+  1996.1.1  -1.008
+  1997.1.1  -0.8911
+  1998.1.1  -0.7738
+  1999.1.1  -0.6567
+  2000.1.1  -0.5396
+  2001.1.1  -0.4299
+  2002.1.1  -0.3203
+  2003.1.1  -0.2108
+  2004.1.1  -0.1014
+  2005.1.1  0.00792
+  2006.1.1  0.1234
+  2007.1.1  0.2386
+  2008.1.1  0.3537
+  2009.1.1  0.4687
+  2010.1.1  0.5834
+  2011.1.1  0.7162
+  2012.1.1  0.8488
+  2013.1.1  0.9812
+  2014.1.1  1.113
+  2015.1.1  1.246
+  2016.1.1  1.397
+  2017.1.1  1.548
+  2018.1.1  1.699
+  2019.1.1  1.85
+  2020.1.1  2.001
+  2021.1.1  2.135
+  2022.1.1  2.269
+  2023.1.1  2.403
+  2024.1.1  2.536
+  2025.1.1  2.67
+  2026.1.1  2.796
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.4.21
+ 2> Copyright © 1990-2026 Olly Betts
+ 3> 
+ 4> La topographie contient 173 stations, connectées par 172 visées.
+ 5> Il y a 0 bouclages.
+ 6> Longueur totale de la topographie = 2160.13m (2160.13m ajusté)
+ 7> Longueur totale en projection horizontale = 2046.46m
+ 8> Longueur totale verticale =  403.69m
+ 9> Intervalle vertical = 173.99m (de 87 à 516.99m jusqu’à 11 à 343.00m)
+10> Intervalle Nord-Sud = 793.08m (de 12 à 2035560.46m jusqu’à 127 à 2034767.38m)
+11> Intervalle Est-Ouest = 679.35m (de 160 à 852959.35m jusqu’à 2 à 852280.00m)
+12> 
+######################### transcription ########################
+ 4> 173 : 2025.14@Git.Git -- 172 : 2025.13@Git.Git
+ 9> 87 : 1994.85@Git.Git -- 11 : 1994.9@Git.Git
+10> 12 : 1994.10@Git.Git -- 127 : 31@Git.Git
+11> 160 : 2025b@Git.Git -- 2 : 0@Git.Git
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... 
+therion: warning -- Git.thconfig [330] -- object not found -- "MP-Git-plan-tot"
+
+therion: warning -- Git.thconfig [331] -- object not found -- "MC-Git-coupe-tot"
+done
+processing projection extended ... done
+
+
+############### export maps & scraps selection #################
+S     -.-- @ ()
+########## end of export maps & scraps selection ###############
+writing Outputs/Git-coupe.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 2.11 (TeX Live 2025) (kpathsea version 6.4.1)  27 MAY 2026 11:12
+**data.mp
+(/usr/local/texlive/2025/texmf-dist/metapost/base/mpost.mp
+(/usr/local/texlive/2025/texmf-dist/metapost/base/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [1] [2] [3] [4]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+[15] [1] [2] (./mptextmp.mp) [3] (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp
+) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) [4] )
+ 
+Here is how much of MetaPost's memory you used:
+ 19690 strings using 1111950 characters
+ 4058736 bytes of node memory
+ 1756 symbolic tokens
+ 9i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
+19 output files written: data-patt.1 .. data-patt.15
+
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdftex 2025.10.9)  27 MAY 2026 11:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
+(./th_fontdef.tex{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdf
+tex.map}) (./th_fontdef2.tex)
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 52 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 324 strings out of 494562
+ 4364 string characters out of 6145051
+ 217143 words of memory out of 5000000
+ 1991 multiletter control sequences out of 15000+600000
+ 21194 words of font info for 66 fonts, out of 8000000 for 9000
+ 1416 hyphenation exceptions out of 8191
+ 9i,5n,8p,532b,56s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
+.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10
+.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
+pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cs/csss10.pfb></usr/
+local/texlive/2025/texmf-dist/fonts/type1/public/cs/csssi10.pfb></usr/local/tex
+live/2025/texmf-dist/fonts/type1/public/cs/csti10.pfb>
+Output written on data.pdf (1 page, 96197 bytes).
+PDF statistics:
+ 58 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 67 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+processing projection plan ... done
+
+
+############### export maps & scraps selection #################
+S     -.-- @ ()
+########## end of export maps & scraps selection ###############
+writing Outputs/Git-plan.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 2.11 (TeX Live 2025) (kpathsea version 6.4.1)  27 MAY 2026 11:12
+**data.mp
+(/usr/local/texlive/2025/texmf-dist/metapost/base/mpost.mp
+(/usr/local/texlive/2025/texmf-dist/metapost/base/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [1] [2] [3] [4]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+[15] [1] [2] (./mptextmp.mp) [3] (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp
+) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) [4] )
+ 
+Here is how much of MetaPost's memory you used:
+ 19506 strings using 1153247 characters
+ 4058736 bytes of node memory
+ 1756 symbolic tokens
+ 9i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
+19 output files written: data-patt.1 .. data-patt.15
+
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdftex 2025.10.9)  27 MAY 2026 11:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
+(./th_fontdef.tex{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdf
+tex.map}) (./th_fontdef2.tex)
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 52 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 324 strings out of 494562
+ 4364 string characters out of 6145051
+ 212625 words of memory out of 5000000
+ 1991 multiletter control sequences out of 15000+600000
+ 21194 words of font info for 66 fonts, out of 8000000 for 9000
+ 1416 hyphenation exceptions out of 8191
+ 9i,5n,8p,436b,56s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
+.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10
+.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
+pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cs/csss10.pfb></usr/
+local/texlive/2025/texmf-dist/fonts/type1/public/cs/csssi10.pfb>
+Output written on data.pdf (1 page, 94041 bytes).
+PDF statistics:
+ 53 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 67 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing Outputs/Git.lox ... done
+writing Outputs/Git ... done
+writing Outputs/Git-filaire.kml ... done
+compilation time: 3 sec
+
+############# CRS transformations chosen by PROJ ###############
+  Area of Use (AoU): (5.538, 45.262) (5.570, 45.281)
+  [EPSG:2154 → LAT-LONG] AoU: [no] transformation: [Inverse of Lambert-93 + RGF93 v1 to WGS 84 (1) (with axis order normalized for visualization)] definition: [proj=pipeline step inv proj=lcc lat_0=46.5 lon_0=3 lat_1=49 lat_2=44 x_0=700000 y_0=6600000 ellps=GRS80 step proj=unitconvert xy_in=rad xy_out=deg] accuracy: [1.000 m]
+  [EPSG:2154 → EPSG:27572] AoU: [yes] transformation: [Inverse of Lambert-93 + Inverse of NTF to RGF93 v1 (1) + Inverse of NTF (Paris) to NTF (1) + Lambert zone II] definition: [proj=pipeline step inv proj=lcc lat_0=46.5 lon_0=3 lat_1=49 lat_2=44 x_0=700000 y_0=6600000 ellps=GRS80 step proj=push v_3 step proj=cart ellps=GRS80 step inv proj=xyzgridshift grids=fr_ign_gr3df97a.tif grid_ref=output_crs ellps=GRS80 step inv proj=cart ellps=clrk80ign step proj=pop v_3 step proj=lcc lat_1=46.8 lat_0=46.8 lon_0=0 k_0=0.99987742 x_0=600000 y_0=2200000 ellps=clrk80ign pm=paris] accuracy: [1.000 m]
+  [EPSG:4326 → EPSG:27572] AoU: [yes] transformation: [Inverse of NTF to WGS 84 (1) + Inverse of NTF (Paris) to NTF (1) + Lambert zone II (with axis order normalized for visualization)] definition: [proj=pipeline step proj=unitconvert xy_in=deg xy_out=rad step proj=push v_3 step proj=cart ellps=WGS84 step proj=helmert x=168 y=60 z=-320 step inv proj=cart ellps=clrk80ign step proj=pop v_3 step proj=lcc lat_1=46.8 lat_0=46.8 lon_0=0 k_0=0.99987742 x_0=600000 y_0=2200000 ellps=clrk80ign pm=paris] accuracy: [2.000 m]
+  [EPSG:27572 → LONG-LAT] AoU: [yes] transformation: [Inverse of Lambert zone II + NTF (Paris) to NTF (1) + NTF to WGS 84 (1) (with axis order normalized for visualization)] definition: [proj=pipeline step inv proj=lcc lat_1=46.8 lat_0=46.8 lon_0=0 k_0=0.99987742 x_0=600000 y_0=2200000 ellps=clrk80ign pm=paris step proj=push v_3 step proj=cart ellps=clrk80ign step proj=helmert x=-168 y=-60 z=320 step inv proj=cart ellps=WGS84 step proj=pop v_3 step proj=unitconvert xy_in=rad xy_out=deg] accuracy: [2.000 m]
+  [EPSG:27572 → LAT-LONG] AoU: [no] transformation: [Inverse of Lambert zone II + NTF (Paris) to NTF (1) + NTF to WGS 84 (1) (with axis order normalized for visualization)] definition: [proj=pipeline step inv proj=lcc lat_1=46.8 lat_0=46.8 lon_0=0 k_0=0.99987742 x_0=600000 y_0=2200000 ellps=clrk80ign pm=paris step proj=push v_3 step proj=cart ellps=clrk80ign step proj=helmert x=-168 y=-60 z=320 step inv proj=cart ellps=WGS84 step proj=pop v_3 step proj=unitconvert xy_in=rad xy_out=deg] accuracy: [2.000 m]
+  [EPSG:27572 → EPSG:4326] AoU: [yes] transformation: [Inverse of Lambert zone II + NTF (Paris) to NTF (1) + NTF to WGS 84 (1) (with axis order normalized for visualization)] definition: [proj=pipeline step inv proj=lcc lat_1=46.8 lat_0=46.8 lon_0=0 k_0=0.99987742 x_0=600000 y_0=2200000 ellps=clrk80ign pm=paris step proj=push v_3 step proj=cart ellps=clrk80ign step proj=helmert x=-168 y=-60 z=320 step inv proj=cart ellps=WGS84 step proj=pop v_3 step proj=unitconvert xy_in=rad xy_out=deg] accuracy: [2.000 m]
+  [EPSG:27572 → EPSG:27572] AoU: [yes] transformation: [Inverse of Lambert zone II + Lambert zone II] definition: [proj=noop ellps=GRS80] accuracy: [0.000 m]
+########## end of CRS transformations chosen by PROJ ###########
