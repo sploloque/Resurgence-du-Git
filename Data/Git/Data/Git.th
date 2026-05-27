@@ -151,7 +151,7 @@ GIT	0	0	0	0	0	0	0	0
         #declination 1.511 degrees
         units counter centimeters
         calibrate counter 0 0.5
-        calibrate clino 100 1
+        calibrate clino 100 -1
 
         #data normal from to length compass clino left right up down
         data topofil from to fromcount tocount compass clino left right up down																	
