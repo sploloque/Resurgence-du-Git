@@ -1,10 +1,8 @@
-therion 6.4.0+dev (compiled on 2026-05-26)
-  - using Proj 9.8.1, compiled against 9.8.1
-initialization file: /Users/robertxa/.therion/therion.ini
+therion 6.4.0 (2026-05-07)
+  - using Proj 9.8.0, compiled against 9.8.0
+initialization file: C:\Program Files\Therion/therion.ini
 reading ... done
-checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
-checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
-configuration file: Git.thconfig
+configuration file: C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Git.thconfig
 reading ... done
 reading source files ... done
 preprocessing database ... done
@@ -44,37 +42,17 @@ geomag declinations (deg):
   2024.1.1  2.536
   2025.1.1  2.67
   2026.1.1  2.796
+  2027.1.1  2.921
 scanning centreline tree ... done
 searching for centerline loops ... done
 calculating station coordinates ... done
-processing survey data ... 
-####################### cavern log file ########################
- 1> Survex 1.4.21
- 2> Copyright © 1990-2026 Olly Betts
- 3> 
- 4> La topographie contient 175 stations, connectées par 174 visées.
- 5> Il y a 0 bouclages.
- 6> Longueur totale de la topographie = 2160.13m (2160.13m ajusté)
- 7> Longueur totale en projection horizontale = 2046.46m
- 8> Longueur totale verticale =  403.69m
- 9> Intervalle vertical = 207.35m (de 142 à 550.36m jusqu’à 11 à 343.00m)
-10> Intervalle Nord-Sud = 793.08m (de 12 à 2035560.46m jusqu’à 127 à 2034767.38m)
-11> Intervalle Est-Ouest = 679.35m (de 161 à 852959.35m jusqu’à 2 à 852280.00m)
-12> 
-######################### transcription ########################
- 4> 175 : 2025.14@Topo2025.Topo2025.Git -- 174 : 2025.13@Topo2025.Topo2025.Git
- 9> 142 : 46@Topo2019.Topo2019.Git -- 11 : 1994.9@Topo1994.Topo1994.Git
-10> 12 : 1994.10@Topo1994.Topo1994.Git -- 127 : 31@Topo2019.Topo2019.Git
-11> 161 : 2025b@Topo2025.Topo2025.Git -- 2 : 0@Topo1994.Topo1994.Git
-#################### end of cavern log file ####################
-done
 calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... done
 selecting export objects ... 
-therion: warning -- Git.thconfig [330] -- object not found -- "MP-Git-plan-tot"
+C:\Program Files\Therion\therion.exe: warning -- C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Git.thconfig [330] -- object not found -- "MP-Git-plan-tot"
 
-therion: warning -- Git.thconfig [331] -- object not found -- "MC-Git-coupe-tot"
+C:\Program Files\Therion\therion.exe: warning -- C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Git.thconfig [331] -- object not found -- "MC-Git-coupe-tot"
 done
 processing projection extended ... done
 
@@ -82,12 +60,12 @@ processing projection extended ... done
 ############### export maps & scraps selection #################
 S     -.-- @ ()
 ########## end of export maps & scraps selection ###############
-writing Outputs/Git-coupe.pdf ...
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Outputs/Git-coupe.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.11 (TeX Live 2025) (kpathsea version 6.4.1)  6 JUN 2026 10:19
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  21 JUN 2026 19:42
 **data.mp
-(/usr/local/texlive/2025/texmf-dist/metapost/base/mpost.mp
-(/usr/local/texlive/2025/texmf-dist/metapost/base/plain.mp
+(c:/Program Files/Therion/texmf/mpost/mpost.mp
+(c:/Program Files/Therion/texmf/mpost/plain.mp
 Preloading the plain mem file, version 1.005) ) (./data.mp
 {randomseed:=42}
  [1] [2] [3] [4]
@@ -96,9 +74,9 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 ) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) [4] )
  
 Here is how much of MetaPost's memory you used:
- 19710 strings using 1120698 characters
- 4063528 bytes of node memory
- 1756 symbolic tokens
+ 20966 strings using 680575 characters
+ 4088896 bytes of node memory
+ 1753 symbolic tokens
  9i,82n,16p,912b,5f stack positions out of 16i,98n,20p,950b,6f
 19 output files written: data-patt.1 .. data-patt.15
 
@@ -107,33 +85,29 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdftex 2025.10.9)  6 JUN 2026 10:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  21 JUN 2026 19:42
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
-(./th_fontdef.tex{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdf
-tex.map}) (./th_fontdef2.tex)
+(c:/Program Files/Therion/texmf/tex/glyphtounicode.tex)) (./th_fontdef.tex{c:/P
+rogram Files/Therion/texmf/fonts/pdftex.map}) (./th_fontdef2.tex)
 (./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
  52 numeric registers used out of 32768
  [1] ) 
 Here is how much of TeX's memory you used:
- 324 strings out of 494562
- 4364 string characters out of 6145051
- 219557 words of memory out of 5000000
- 1991 multiletter control sequences out of 15000+600000
- 21194 words of font info for 66 fonts, out of 8000000 for 9000
- 1416 hyphenation exceptions out of 8191
- 9i,5n,8p,532b,56s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
-.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10
-.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
-pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cs/csss10.pfb></usr/
-local/texlive/2025/texmf-dist/fonts/type1/public/cs/csssi10.pfb></usr/local/tex
-live/2025/texmf-dist/fonts/type1/public/cs/csti10.pfb>
-Output written on data.pdf (1 page, 96255 bytes).
+ 324 strings out of 95671
+ 4316 string characters out of 1192323
+ 231740 words of memory out of 1703783
+ 1715 multiletter control sequences out of 15000+50000
+ 21194 words of font info for 66 fonts, out of 1000000 for 2000
+ 844 hyphenation exceptions out of 5000
+ 9i,5n,8p,532b,56s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/
+Therion/texmf/fonts/type1/cmssi10.pfb><c:/Program Files/Therion/texmf/fonts/typ
+e1/cmti10.pfb><c:/Program Files/Therion/texmf/fonts/type1/csss10.pfb><c:/Progra
+m Files/Therion/texmf/fonts/type1/csssi10.pfb><c:/Program Files/Therion/texmf/f
+onts/type1/csti10.pfb>
+Output written on data.pdf (1 page, 99283 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
@@ -149,12 +123,12 @@ processing projection plan ... done
 ############### export maps & scraps selection #################
 S     -.-- @ ()
 ########## end of export maps & scraps selection ###############
-writing Outputs/Git-plan.pdf ...
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Outputs/Git-plan.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.11 (TeX Live 2025) (kpathsea version 6.4.1)  6 JUN 2026 10:19
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  21 JUN 2026 19:42
 **data.mp
-(/usr/local/texlive/2025/texmf-dist/metapost/base/mpost.mp
-(/usr/local/texlive/2025/texmf-dist/metapost/base/plain.mp
+(c:/Program Files/Therion/texmf/mpost/mpost.mp
+(c:/Program Files/Therion/texmf/mpost/plain.mp
 Preloading the plain mem file, version 1.005) ) (./data.mp
 {randomseed:=42}
  [1] [2] [3] [4]
@@ -163,9 +137,9 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 ) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) [4] )
  
 Here is how much of MetaPost's memory you used:
- 19523 strings using 1153328 characters
- 4063528 bytes of node memory
- 1756 symbolic tokens
+ 20694 strings using 667284 characters
+ 4088896 bytes of node memory
+ 1753 symbolic tokens
  9i,82n,16p,910b,5f stack positions out of 16i,98n,20p,950b,6f
 19 output files written: data-patt.1 .. data-patt.15
 
@@ -174,32 +148,28 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdftex 2025.10.9)  6 JUN 2026 10:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  21 JUN 2026 19:42
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
-(./th_fontdef.tex{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdf
-tex.map}) (./th_fontdef2.tex)
+(c:/Program Files/Therion/texmf/tex/glyphtounicode.tex)) (./th_fontdef.tex{c:/P
+rogram Files/Therion/texmf/fonts/pdftex.map}) (./th_fontdef2.tex)
 (./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
  52 numeric registers used out of 32768
  [1] ) 
 Here is how much of TeX's memory you used:
- 324 strings out of 494562
- 4364 string characters out of 6145051
- 214693 words of memory out of 5000000
- 1991 multiletter control sequences out of 15000+600000
- 21194 words of font info for 66 fonts, out of 8000000 for 9000
- 1416 hyphenation exceptions out of 8191
- 9i,5n,8p,436b,56s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
-.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10
-.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
-pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cs/csss10.pfb></usr/
-local/texlive/2025/texmf-dist/fonts/type1/public/cs/csssi10.pfb>
-Output written on data.pdf (1 page, 94093 bytes).
+ 324 strings out of 95671
+ 4316 string characters out of 1192323
+ 227212 words of memory out of 1699255
+ 1715 multiletter control sequences out of 15000+50000
+ 21194 words of font info for 66 fonts, out of 1000000 for 2000
+ 844 hyphenation exceptions out of 5000
+ 9i,5n,8p,437b,56s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/
+Therion/texmf/fonts/type1/cmssi10.pfb><c:/Program Files/Therion/texmf/fonts/typ
+e1/cmti10.pfb><c:/Program Files/Therion/texmf/fonts/type1/csss10.pfb><c:/Progra
+m Files/Therion/texmf/fonts/type1/csssi10.pfb>
+Output written on data.pdf (1 page, 97046 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
@@ -209,11 +179,11 @@ PDF statistics:
 
 ##################### end of pdftex log file #####################
 done
-writing Outputs/Git.lox ... done
-writing Outputs/Git ... done
-writing Outputs/Git-filaire.kml ... done
-writing Outputs/Surveys.html ... done
-compilation time: 2 sec
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Outputs/Git.lox ... done
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Outputs/Git ... done
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Outputs/Git-filaire.kml ... done
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Outputs/Surveys.html ... done
+compilation time: 4 sec
 
 ############# CRS transformations chosen by PROJ ###############
   Area of Use (AoU): (5.538, 45.262) (5.570, 45.281)

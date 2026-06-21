@@ -1,0 +1,16 @@
+encoding  utf-8
+
+# Copyright (C) 2026 Xavier Robert <xavier.robert***@***ird.fr>
+# This work is under the Creative Commons Attribution-ShareAlike-NonCommecial License:
+#	<http://creativecommons.org/licenses/by-nc-sa/4.0/> 
+
+map MP-Topo2026-plan-tot -title "Grotte du Git"
+#map MP-Topo2025-plan-tot -title "Grotte du Git"
+	#SP-2026-06-21-S3-1
+	
+endmap
+
+#map MC-Topo2025-tot -title "Grotte du Git"
+#	SC-Bruyant-1
+#endmap
+   

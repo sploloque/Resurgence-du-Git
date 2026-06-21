@@ -100,23 +100,6 @@ survey Topo2019 -title "Résurgence du Git"
 
         endcenterline
 
-        centerline
-
-        date 2025.10.19
-            team "Stéphane Lips"
-        units length meters
-        units compass clino grads
-        #declination 2.5119 degrees
-
-        data normal from to length compass clino left right up down
-        #data topofil from to fromcount to count compass clino left right up down																							
-            #Param	Deca	Degd	Clino	Degd	2.5119	Dir,Dir,Dir	Inc	Std	19/10/2025	M
-            flags approx
-            # Topo estimée du S3																																				
-            53	2025.11	90	80	0	.	.	.	.	
-            flags not approx
-
-        endcenterline
 
 endsurvey
 																							
