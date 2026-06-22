@@ -404,8 +404,8 @@ endlayout
 	select MP-Topo2026-plan-tot@Topo2026
 	#select MC-Aspirateur-coupe-tot@Aspirateur
 
-export map -projection plan -fmt xvi -o Data/Topo2026.xvi  -layout xviexport
-export map -projection extended -fmt xvi -o Data/coupe2026.xvi  -layout xviexport
+export map -projection plan -fmt xvi -o Data/Topo2026.xvi  #-layout xviexport
+export map -projection extended -fmt xvi -o Data/coupe2026.xvi  #-layout xviexport
 
 
 export map -o Outputs/Topo2026-plan2026-EV.pdf -layout my_layout

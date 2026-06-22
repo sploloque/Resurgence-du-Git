@@ -1,10 +1,8 @@
-therion 6.4.0+dev (compiled on 2026-05-26)
-  - using Proj 9.8.1, compiled against 9.8.1
-initialization file: /Users/robertxa/.therion/therion.ini
+therion 6.4.0 (2026-05-07)
+  - using Proj 9.8.0, compiled against 9.8.0
+initialization file: C:\Program Files\Therion/therion.ini
 reading ... done
-checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
-checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
-configuration file: Topo2019.thconfig
+configuration file: C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2019/Topo2019.thconfig
 reading ... done
 reading source files ... done
 preprocessing database ... done
@@ -13,67 +11,36 @@ meridian convergence (deg): -1.9e-05
 geomag declinations (deg):
   2019.1.1  -3.342
   2020.1.1  -3.19
-  2021.1.1  -3.077
-  2022.1.1  -2.965
-  2023.1.1  -2.852
-  2024.1.1  -2.739
-  2025.1.1  -2.626
-  2026.1.1  -2.522
 scanning centreline tree ... done
 searching for centerline loops ... done
 calculating station coordinates ... done
-processing survey data ... 
-####################### cavern log file ########################
- 1> Survex 1.4.21
- 2> Copyright © 1990-2026 Olly Betts
- 3> /var/folders/yr/jp8bhrxs78db_6zmxvb7pbph0000gp/T/th80009/data.svx:6:2: info: La topographie n’a pas de points fixes. Par conséquent j’ai fixé 1 à (0,0,0)
- 4> 
- 5> La topographie contient 65 stations, connectées par 64 visées.
- 6> Il y a 0 bouclages.
- 7> Longueur totale de la topographie =  500.60m ( 500.60m ajusté)
- 8> Longueur totale en projection horizontale =  465.87m
- 9> Longueur totale verticale =   88.90m
-10> Intervalle vertical = 49.06m (de 48 à 29.71m jusqu’à 64 à -19.36m)
-11> Intervalle Nord-Sud = 89.38m (de 62 à 35.27m jusqu’à 33 à -54.11m)
-12> Intervalle Est-Ouest = 263.77m (de 65 à 263.77m jusqu’à 2 à 0.00m)
-13> 
-######################### transcription ########################
- 3> 8 : 6@Topo2019.Topo2019 -- 6 : 4@Topo2019.Topo2019 -- 7 : 5@Topo2019.Topo2019
- 3> input:6 -- Data/Topo2019.th [36]
- 3> 1 : 2019@Topo2019.Topo2019
- 5> 65 : 2025.11@Topo2019.Topo2019 -- 64 : 62@Topo2019.Topo2019
-10> 48 : 46@Topo2019.Topo2019 -- 64 : 62@Topo2019.Topo2019
-11> 62 : 60@Topo2019.Topo2019 -- 33 : 31@Topo2019.Topo2019
-12> 65 : 2025.11@Topo2019.Topo2019 -- 2 : 2019b@Topo2019.Topo2019
-#################### end of cavern log file ####################
-done
 calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... 
-therion: warning -- Topo2019.thconfig [37] -- source layout not found -- drawinTopo2019onfig
+C:\Program Files\Therion\therion.exe: warning -- C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2019/Topo2019.thconfig [37] -- source layout not found -- drawinTopo2019onfig
 
-therion: warning -- Topo2019.thconfig [170] -- source layout not found -- drawinTopo2019onfig
+C:\Program Files\Therion\therion.exe: warning -- C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2019/Topo2019.thconfig [170] -- source layout not found -- drawinTopo2019onfig
 
-therion: warning -- Topo2019.thconfig [305] -- source layout not found -- drawinTopo2019onfig
+C:\Program Files\Therion\therion.exe: warning -- C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2019/Topo2019.thconfig [305] -- source layout not found -- drawinTopo2019onfig
 done
 selecting export objects ... 
-therion: warning -- Topo2019.thconfig [404] -- object not found -- "MP-Topo2019-plan-tot"
+C:\Program Files\Therion\therion.exe: warning -- C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2019/Topo2019.thconfig [404] -- object not found -- "MP-Topo2019-plan-tot"
 done
 processing projection plan ... done
-writing Data/Topo2019.xvi ... done
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2019/Data/Topo2019.xvi ... done
 processing projection extended ... done
-writing Data/coupe1994.xvi ... done
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2019/Data/coupe1994.xvi ... done
 
 
 ############### export maps & scraps selection #################
 S     -.-- @ ()
 ########## end of export maps & scraps selection ###############
-writing Outputs/Topo2019-plan2024-EV.pdf ...
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2019/Outputs/Topo2019-plan2024-EV.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.11 (TeX Live 2025) (kpathsea version 6.4.1)  6 JUN 2026 10:03
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  21 JUN 2026 20:40
 **data.mp
-(/usr/local/texlive/2025/texmf-dist/metapost/base/mpost.mp
-(/usr/local/texlive/2025/texmf-dist/metapost/base/plain.mp
+(c:/Program Files/Therion/texmf/mpost/mpost.mp
+(c:/Program Files/Therion/texmf/mpost/plain.mp
 Preloading the plain mem file, version 1.005) ) (./data.mp
 {randomseed:=42}
  [1] [2] [3] [4]
@@ -82,9 +49,9 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 (./mptextmp.mp) (./mptextmp.mp) [3] )
  
 Here is how much of MetaPost's memory you used:
- 1586 strings using 62302 characters
- 3357416 bytes of node memory
- 1694 symbolic tokens
+ 1528 strings using 45885 characters
+ 3345688 bytes of node memory
+ 1691 symbolic tokens
  9i,82n,12p,312b,4f stack positions out of 16i,98n,15p,312b,6f
 17 output files written: data-patt.1 .. data-patt.14
 
@@ -93,32 +60,28 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdftex 2025.10.9)  6 JUN 2026 10:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  21 JUN 2026 20:40
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
-(./th_fontdef.tex{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdf
-tex.map}) (./th_fontdef2.tex)
+(c:/Program Files/Therion/texmf/tex/glyphtounicode.tex)) (./th_fontdef.tex{c:/P
+rogram Files/Therion/texmf/fonts/pdftex.map}) (./th_fontdef2.tex)
 (./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
  51 numeric registers used out of 32768
  [1] ) 
 Here is how much of TeX's memory you used:
- 323 strings out of 494562
- 4353 string characters out of 6145051
- 57321 words of memory out of 5000000
- 1990 multiletter control sequences out of 15000+600000
- 21194 words of font info for 66 fonts, out of 8000000 for 9000
- 1416 hyphenation exceptions out of 8191
- 9i,5n,8p,1736b,56s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
-.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10
-.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
-pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cs/csss10.pfb></usr/
-local/texlive/2025/texmf-dist/fonts/type1/public/cs/csssi10.pfb>
-Output written on data.pdf (1 page, 55213 bytes).
+ 323 strings out of 95671
+ 4305 string characters out of 1192323
+ 54910 words of memory out of 1539953
+ 1714 multiletter control sequences out of 15000+50000
+ 21194 words of font info for 66 fonts, out of 1000000 for 2000
+ 844 hyphenation exceptions out of 5000
+ 9i,5n,8p,1736b,56s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/
+Therion/texmf/fonts/type1/cmssi10.pfb><c:/Program Files/Therion/texmf/fonts/typ
+e1/cmti10.pfb><c:/Program Files/Therion/texmf/fonts/type1/csss10.pfb><c:/Progra
+m Files/Therion/texmf/fonts/type1/csssi10.pfb>
+Output written on data.pdf (1 page, 54438 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
@@ -133,12 +96,12 @@ done
 ############### export maps & scraps selection #################
 S     -.-- @ ()
 ########## end of export maps & scraps selection ###############
-writing Outputs/Topo2019-coupe2024.pdf ...
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2019/Outputs/Topo2019-coupe2024.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.11 (TeX Live 2025) (kpathsea version 6.4.1)  6 JUN 2026 10:03
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  21 JUN 2026 20:40
 **data.mp
-(/usr/local/texlive/2025/texmf-dist/metapost/base/mpost.mp
-(/usr/local/texlive/2025/texmf-dist/metapost/base/plain.mp
+(c:/Program Files/Therion/texmf/mpost/mpost.mp
+(c:/Program Files/Therion/texmf/mpost/plain.mp
 Preloading the plain mem file, version 1.005) ) (./data.mp
 {randomseed:=42}
  [1] [2] [3] [4]
@@ -147,9 +110,9 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 (./mptextmp.mp) (./mptextmp.mp) [3] )
  
 Here is how much of MetaPost's memory you used:
- 1586 strings using 62302 characters
- 3357416 bytes of node memory
- 1694 symbolic tokens
+ 1583 strings using 54029 characters
+ 3345688 bytes of node memory
+ 1691 symbolic tokens
  9i,82n,12p,312b,4f stack positions out of 16i,98n,15p,312b,6f
 17 output files written: data-patt.1 .. data-patt.14
 
@@ -158,33 +121,29 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdftex 2025.10.9)  6 JUN 2026 10:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  21 JUN 2026 20:40
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
-(./th_fontdef.tex{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdf
-tex.map}) (./th_fontdef2.tex)
+(c:/Program Files/Therion/texmf/tex/glyphtounicode.tex)) (./th_fontdef.tex{c:/P
+rogram Files/Therion/texmf/fonts/pdftex.map}) (./th_fontdef2.tex)
 (./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
  51 numeric registers used out of 32768
  [1] ) 
 Here is how much of TeX's memory you used:
- 323 strings out of 494562
- 4353 string characters out of 6145051
- 56040 words of memory out of 5000000
- 1990 multiletter control sequences out of 15000+600000
- 21194 words of font info for 66 fonts, out of 8000000 for 9000
- 1416 hyphenation exceptions out of 8191
- 9i,5n,8p,1736b,56s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
-.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10
-.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
-pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cs/csss10.pfb></usr/
-local/texlive/2025/texmf-dist/fonts/type1/public/cs/csssi10.pfb></usr/local/tex
-live/2025/texmf-dist/fonts/type1/public/cs/csti10.pfb>
-Output written on data.pdf (1 page, 58266 bytes).
+ 323 strings out of 95671
+ 4305 string characters out of 1192323
+ 53870 words of memory out of 1538913
+ 1714 multiletter control sequences out of 15000+50000
+ 21194 words of font info for 66 fonts, out of 1000000 for 2000
+ 844 hyphenation exceptions out of 5000
+ 9i,5n,8p,1736b,56s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/
+Therion/texmf/fonts/type1/cmssi10.pfb><c:/Program Files/Therion/texmf/fonts/typ
+e1/cmti10.pfb><c:/Program Files/Therion/texmf/fonts/type1/csss10.pfb><c:/Progra
+m Files/Therion/texmf/fonts/type1/csssi10.pfb><c:/Program Files/Therion/texmf/f
+onts/type1/csti10.pfb>
+Output written on data.pdf (1 page, 58038 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
@@ -194,7 +153,7 @@ PDF statistics:
 
 ##################### end of pdftex log file #####################
 done
-writing Outputs/Topo2019.lox ... done
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2019/Outputs/Topo2019.lox ... done
 compilation time: 2 sec
 
 ############# CRS transformations chosen by PROJ ###############
