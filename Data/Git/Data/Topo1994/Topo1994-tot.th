@@ -11,7 +11,8 @@ survey Topo1994 -title "Grotte du Git - Topo 1994"
    input Data/Topo1994.th
 
 ## Pour le plan
-   #input Data/aspi202203.th2
+   #input Data/Topo1994.th2
+   #input Data/Test.th2
 
 ## Pour la coupe développée
    #input Data/Topo1994-coupe.th2

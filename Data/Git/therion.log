@@ -4,7 +4,7 @@ initialization file: /Users/robertxa/.therion/therion.ini
 reading ... done
 checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
 checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
-configuration file: Git.thconfig
+configuration file: /Users/robertxa/Documents/Speleo/Vercors/Resurgence du Git/Data/Git/Git.thconfig
 reading ... done
 reading source files ... done
 preprocessing database ... done
@@ -50,16 +50,16 @@ calculating station coordinates ... done
 processing survey data ... 
 ####################### cavern log file ########################
  1> Survex 1.4.21
- 2> Copyright © 1990-2026 Olly Betts
+ 2> Copyright (C) 1990-2026 Olly Betts
  3> 
- 4> La topographie contient 175 stations, connectées par 174 visées.
- 5> Il y a 0 bouclages.
- 6> Longueur totale de la topographie = 2160.13m (2160.13m ajusté)
- 7> Longueur totale en projection horizontale = 2046.46m
- 8> Longueur totale verticale =  403.69m
- 9> Intervalle vertical = 207.35m (de 142 à 550.36m jusqu’à 11 à 343.00m)
-10> Intervalle Nord-Sud = 793.08m (de 12 à 2035560.46m jusqu’à 127 à 2034767.38m)
-11> Intervalle Est-Ouest = 679.35m (de 161 à 852959.35m jusqu’à 2 à 852280.00m)
+ 4> Survey contains 175 survey stations, joined by 174 legs.
+ 5> There are 0 loops.
+ 6> Total length of survey legs = 2160.13m (2160.13m adjusted)
+ 7> Total plan length of survey legs = 2046.46m
+ 8> Total vertical length of survey legs =  403.69m
+ 9> Vertical range = 207.35m (from 142 at 550.36m to 11 at 343.00m)
+10> North-South range = 793.08m (from 12 at 2035560.46m to 127 at 2034767.38m)
+11> East-West range = 679.35m (from 161 at 852959.35m to 2 at 852280.00m)
 12> 
 ######################### transcription ########################
  4> 175 : 2025.14@Topo2025.Topo2025.Git -- 174 : 2025.13@Topo2025.Topo2025.Git
@@ -72,9 +72,9 @@ calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... done
 selecting export objects ... 
-therion: warning -- Git.thconfig [330] -- object not found -- "MP-Git-plan-tot"
+/usr/local/bin/therion: warning -- /Users/robertxa/Documents/Speleo/Vercors/Resurgence du Git/Data/Git/Git.thconfig [330] -- object not found -- "MP-Git-plan-tot"
 
-therion: warning -- Git.thconfig [331] -- object not found -- "MC-Git-coupe-tot"
+/usr/local/bin/therion: warning -- /Users/robertxa/Documents/Speleo/Vercors/Resurgence du Git/Data/Git/Git.thconfig [331] -- object not found -- "MC-Git-coupe-tot"
 done
 processing projection extended ... done
 
@@ -82,9 +82,9 @@ processing projection extended ... done
 ############### export maps & scraps selection #################
 S     -.-- @ ()
 ########## end of export maps & scraps selection ###############
-writing Outputs/Git-coupe.pdf ...
+writing /Users/robertxa/Documents/Speleo/Vercors/Resurgence du Git/Data/Git/Outputs/Git-coupe.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.11 (TeX Live 2025) (kpathsea version 6.4.1)  6 JUN 2026 10:19
+This is MetaPost, version 2.11 (TeX Live 2025) (kpathsea version 6.4.1)  6 JUN 2026 18:39
 **data.mp
 (/usr/local/texlive/2025/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2025/texmf-dist/metapost/base/plain.mp
@@ -107,7 +107,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdftex 2025.10.9)  6 JUN 2026 10:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdftex 2025.10.9)  6 JUN 2026 18:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -122,7 +122,7 @@ tex.map}) (./th_fontdef2.tex)
 Here is how much of TeX's memory you used:
  324 strings out of 494562
  4364 string characters out of 6145051
- 219557 words of memory out of 5000000
+ 219549 words of memory out of 5000000
  1991 multiletter control sequences out of 15000+600000
  21194 words of font info for 66 fonts, out of 8000000 for 9000
  1416 hyphenation exceptions out of 8191
@@ -133,7 +133,7 @@ Here is how much of TeX's memory you used:
 pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cs/csss10.pfb></usr/
 local/texlive/2025/texmf-dist/fonts/type1/public/cs/csssi10.pfb></usr/local/tex
 live/2025/texmf-dist/fonts/type1/public/cs/csti10.pfb>
-Output written on data.pdf (1 page, 96255 bytes).
+Output written on data.pdf (1 page, 96355 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
@@ -149,9 +149,9 @@ processing projection plan ... done
 ############### export maps & scraps selection #################
 S     -.-- @ ()
 ########## end of export maps & scraps selection ###############
-writing Outputs/Git-plan.pdf ...
+writing /Users/robertxa/Documents/Speleo/Vercors/Resurgence du Git/Data/Git/Outputs/Git-plan.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.11 (TeX Live 2025) (kpathsea version 6.4.1)  6 JUN 2026 10:19
+This is MetaPost, version 2.11 (TeX Live 2025) (kpathsea version 6.4.1)  6 JUN 2026 18:39
 **data.mp
 (/usr/local/texlive/2025/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2025/texmf-dist/metapost/base/plain.mp
@@ -174,7 +174,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdftex 2025.10.9)  6 JUN 2026 10:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdftex 2025.10.9)  6 JUN 2026 18:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -189,7 +189,7 @@ tex.map}) (./th_fontdef2.tex)
 Here is how much of TeX's memory you used:
  324 strings out of 494562
  4364 string characters out of 6145051
- 214693 words of memory out of 5000000
+ 214685 words of memory out of 5000000
  1991 multiletter control sequences out of 15000+600000
  21194 words of font info for 66 fonts, out of 8000000 for 9000
  1416 hyphenation exceptions out of 8191
@@ -209,10 +209,10 @@ PDF statistics:
 
 ##################### end of pdftex log file #####################
 done
-writing Outputs/Git.lox ... done
-writing Outputs/Git ... done
-writing Outputs/Git-filaire.kml ... done
-writing Outputs/Surveys.html ... done
+writing /Users/robertxa/Documents/Speleo/Vercors/Resurgence du Git/Data/Git/Outputs/Git.lox ... done
+writing /Users/robertxa/Documents/Speleo/Vercors/Resurgence du Git/Data/Git/Outputs/Git ... done
+writing /Users/robertxa/Documents/Speleo/Vercors/Resurgence du Git/Data/Git/Outputs/Git-filaire.kml ... done
+writing /Users/robertxa/Documents/Speleo/Vercors/Resurgence du Git/Data/Git/Outputs/Surveys.html ... done
 compilation time: 2 sec
 
 ############# CRS transformations chosen by PROJ ###############

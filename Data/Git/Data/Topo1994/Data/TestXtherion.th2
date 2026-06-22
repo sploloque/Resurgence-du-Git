@@ -1,0 +1,15 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust -128.0 -128.0 3907.5296 7214.618
+##XTHERION## xth_me_area_zoom_to 25
+##XTHERION## xth_me_image_insert {698.51 1 1.0} {6374.33 GIT} Topo1994.xvi 0 {}
+
+
+
+scrap scrap-1 -scale [-128 -128 3907.5296 -128 0.0 0.0 102.50245184 0.0 m] -projection plan -author 2026 "Xavier Robert" -station-names "" @Topo1994
+  point 717.4 6315.2 station -name draft-point
+  point 827.3 6361.3 station -name 1994.1
+  point 827.3 6333.6 station -name 1994.2
+  point 866.1 6315.5 station -name 1994.3
+  point 998.0 6283.6 station -name 1994.4
+  point 1064.2 6285.1 station -name 1994.5
+endscrap
