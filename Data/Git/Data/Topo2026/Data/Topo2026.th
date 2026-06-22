@@ -1,0 +1,54 @@
+# Copyright (C) 2025 Xavier Robert <xavier.robert***@***ird.fr>
+# This work is under the Creative Commons Attribution-ShareAlike-NonCommecial License:
+#	<http://creativecommons.org/licenses/by-nc-sa/4.0/> 
+
+encoding utf-8
+
+survey Topo2026 -title "Résurgence du Git"
+    #Version	5.12																						
+    #Verification	1																						
+
+
+    centerline
+        date 2026.06.21
+        units length depth meters
+        units compass clino degrees
+        data diving station count depth left right up down newline compass
+    extend right				
+
+# Param Topof 100.000 Deg Prof 0.0000 Dir,Dir,Dir Arr Std --/--/---- M ;Résurgence du Gît - Siphon 3 - Topographie effectuée par Stéphane Lips le 21/06/2026 - Topographie du siphon de l'aval vers l'amont sur fil métré;
+
+
+
+
+
+0       0      0.00   1.00   3.00   1.50   1.50 #Vasque aval du S3;
+	300
+1       1    -1.00   3.00   1.00   1.50   1.50 
+	350
+2       2   -1.6   1.00   2.00   1.50   1.50
+	350
+3       11   -4.6   1.00   2.00   1.00   1.20
+	60
+4       22   -1.4   1.00   2.00   1.00   2.00
+	100
+5       31  -3.5   1.50   1.50   2.00   0.00
+	45
+6       42  -5.3   2.00   1.00   1.50   0.00
+	55 												#Laminoir
+7       50  -8.3   2.00   2.00   1.20   0.00
+	70
+8       62   -7   1.00   3.00   0.80   0.60 
+	80
+9       72   -7.1   4.00   1.00   0.70   0.70 
+	75
+10      87   -4.5   1.50   1.00   0.70   0.70 
+	100
+11      93   -4.5   1.50   1.50   2.00   0.00 
+	110
+12      104  -1.50   2.00   1.50   1.50   1.00  #Vasque amont du S3;        
+
+    endcenterline
+
+endsurvey
+																							

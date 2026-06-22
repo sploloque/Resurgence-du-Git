@@ -1,0 +1,22 @@
+encoding  utf-8
+
+# Copyright (C) 2026 Xavier Robert <xavier.robert***@***ird.fr>
+# This work is under the Creative Commons Attribution-ShareAlike-NonCommecial License:
+#	<http://creativecommons.org/licenses/by-nc-sa/4.0/> 
+ 
+survey Topo2026 -title "Grotte du Git - Topo 2026"
+#survey Topo2025laire -title "Grotte du Git"
+
+# Pour importer les différentes données de différents fichiers topos : 
+   input Data/Topo2026.th
+
+## Pour le plan
+   #input Data/aspi202203.th2
+
+## Pour la coupe développée
+   #input Data/Topo2025-coupe.th2
+
+## Appel des maps
+   #input Topo2025-maps.th
+
+endsurvey

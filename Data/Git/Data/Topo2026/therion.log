@@ -1,0 +1,162 @@
+therion 6.4.0 (2026-05-07)
+  - using Proj 9.8.0, compiled against 9.8.0
+initialization file: C:\Program Files\Therion/therion.ini
+reading ... done
+configuration file: C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2026/Topo2026.thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+output coordinate system: UTM32
+meridian convergence (deg): -1.9e-05
+geomag declinations (deg):
+  2026.1.1  -2.522
+  2027.1.1  -2.417
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... 
+C:\Program Files\Therion\therion.exe: warning -- C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2026/Topo2026.thconfig [37] -- source layout not found -- drawinTopo2025onfig
+
+C:\Program Files\Therion\therion.exe: warning -- C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2026/Topo2026.thconfig [170] -- source layout not found -- drawinTopo2025onfig
+
+C:\Program Files\Therion\therion.exe: warning -- C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2026/Topo2026.thconfig [305] -- source layout not found -- drawinTopo2025onfig
+done
+selecting export objects ... 
+C:\Program Files\Therion\therion.exe: warning -- C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2026/Topo2026.thconfig [404] -- object not found -- "MP-Topo2026-plan-tot"
+done
+processing projection plan ... done
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2026/Data/Topo2026.xvi ... done
+processing projection extended ... done
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2026/Data/coupe2026.xvi ... done
+
+
+############### export maps & scraps selection #################
+S     -.-- @ ()
+########## end of export maps & scraps selection ###############
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2026/Outputs/Topo2026-plan2026-EV.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  21 JUN 2026 17:28
+**data.mp
+(c:/Program Files/Therion/texmf/mpost/mpost.mp
+(c:/Program Files/Therion/texmf/mpost/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [1] [2] [3] [4]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+[1] [2] (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp)
+(./mptextmp.mp) (./mptextmp.mp) [3] )
+ 
+Here is how much of MetaPost's memory you used:
+ 1583 strings using 54029 characters
+ 3264088 bytes of node memory
+ 1691 symbolic tokens
+ 9i,82n,12p,312b,4f stack positions out of 16i,98n,15p,312b,6f
+17 output files written: data-patt.1 .. data-patt.14
+
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  21 JUN 2026 17:28
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files/Therion/texmf/tex/glyphtounicode.tex)) (./th_fontdef.tex{c:/P
+rogram Files/Therion/texmf/fonts/pdftex.map}) (./th_fontdef2.tex)
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 51 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 323 strings out of 95671
+ 4305 string characters out of 1192323
+ 23160 words of memory out of 1511203
+ 1714 multiletter control sequences out of 15000+50000
+ 21194 words of font info for 66 fonts, out of 1000000 for 2000
+ 844 hyphenation exceptions out of 5000
+ 9i,5n,8p,1736b,56s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/
+Therion/texmf/fonts/type1/cmssi10.pfb><c:/Program Files/Therion/texmf/fonts/typ
+e1/cmti10.pfb><c:/Program Files/Therion/texmf/fonts/type1/csssi10.pfb>
+Output written on data.pdf (1 page, 42503 bytes).
+PDF statistics:
+ 46 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+
+
+############### export maps & scraps selection #################
+S     -.-- @ ()
+########## end of export maps & scraps selection ###############
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2026/Outputs/Topo2026-coupe2026.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  21 JUN 2026 17:28
+**data.mp
+(c:/Program Files/Therion/texmf/mpost/mpost.mp
+(c:/Program Files/Therion/texmf/mpost/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [1] [2] [3] [4]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+[1] [2] (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp)
+(./mptextmp.mp) (./mptextmp.mp) [3] )
+ 
+Here is how much of MetaPost's memory you used:
+ 1583 strings using 54029 characters
+ 3264088 bytes of node memory
+ 1691 symbolic tokens
+ 9i,82n,12p,312b,4f stack positions out of 16i,98n,15p,312b,6f
+17 output files written: data-patt.1 .. data-patt.14
+
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  21 JUN 2026 17:28
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files/Therion/texmf/tex/glyphtounicode.tex)) (./th_fontdef.tex{c:/P
+rogram Files/Therion/texmf/fonts/pdftex.map}) (./th_fontdef2.tex)
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 51 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 323 strings out of 95671
+ 4305 string characters out of 1192323
+ 22877 words of memory out of 1510920
+ 1714 multiletter control sequences out of 15000+50000
+ 21194 words of font info for 66 fonts, out of 1000000 for 2000
+ 844 hyphenation exceptions out of 5000
+ 9i,5n,8p,1736b,56s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/
+Therion/texmf/fonts/type1/cmssi10.pfb><c:/Program Files/Therion/texmf/fonts/typ
+e1/cmti10.pfb><c:/Program Files/Therion/texmf/fonts/type1/csssi10.pfb><c:/Progr
+am Files/Therion/texmf/fonts/type1/csti10.pfb>
+Output written on data.pdf (1 page, 45791 bytes).
+PDF statistics:
+ 51 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing C:/Users/Stephane Lips/Documents/GitHub/Resurgence-du-Git/Data/Git/Data/Topo2026/Outputs/Topo2026.lox ... done
+compilation time: 2 sec
+
+############# CRS transformations chosen by PROJ ###############
+  [UTM32 → LONG-LAT] AoU: [no] transformation: [Inverse of UTM zone 32N (with axis order normalized for visualization)] definition: [proj=pipeline step inv proj=utm zone=32 ellps=WGS84 step proj=unitconvert xy_in=rad xy_out=deg] accuracy: [-1.000 m]
+  [UTM32 → UTM32] AoU: [no] transformation: [Inverse of UTM zone 32N + UTM zone 32N] definition: [proj=noop ellps=GRS80] accuracy: [0.000 m]
+  [UTM32 → EPSG:4326] AoU: [no] transformation: [Inverse of UTM zone 32N (with axis order normalized for visualization)] definition: [proj=pipeline step inv proj=utm zone=32 ellps=WGS84 step proj=unitconvert xy_in=rad xy_out=deg] accuracy: [-1.000 m]
+  [EPSG:4326 → UTM32] AoU: [no] transformation: [UTM zone 32N (with axis order normalized for visualization)] definition: [proj=pipeline step proj=unitconvert xy_in=deg xy_out=rad step proj=utm zone=32 ellps=WGS84] accuracy: [-1.000 m]
+########## end of CRS transformations chosen by PROJ ###########

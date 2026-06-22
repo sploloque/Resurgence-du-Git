@@ -12,7 +12,10 @@ survey Git -title "Résurgence du Git"
    input Data/Topo2019/Topo2019-tot.th
       equate 62@Topo2019.Topo2019 62@Topo1994.Topo1994
    input Data/Topo2025/Topo2025-tot.th
-      equate 2025.11@Topo2025.Topo2025 2025.11@Topo2019.Topo2019
+   input Data/Topo2026/Topo2026-tot.th
+      equate 2025.11@Topo2025.Topo2025 12@Topo2026.Topo2026
+      equate 53@Topo2019.Topo2019 0@Topo2026.Topo2026
+
 
    centerline
       station 1994.18@Topo1994.Topo1994 "+ 30 m exploré et topographié en 1994, non inclu dans la topo électronique ; station aléatoire" continuation explored 577m  
